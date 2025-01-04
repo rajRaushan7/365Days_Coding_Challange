@@ -5,7 +5,7 @@ About the Project
 This repository documents my journey of solving coding problems on HackerRank for 365 consecutive days. The goal is to enhance my problem-solving skills, improve coding proficiency, and maintain consistency in practice.
 
 Goals
-	• Solve one problem daily for 365 days.
+	• Solve at least one problem daily for 365 days.
  	• Upload each solution to GitHub with proper documentation.
   	• Track progress and reflect on learning.
 
