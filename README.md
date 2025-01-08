@@ -11,8 +11,8 @@ Goals
 
  Progress Tracker
  	• Start Date: 01/ 01/ 2025
-	• Days Completed: 7/365
-  	• Problems Solved: 10
+	• Days Completed: 8/365
+  	• Problems Solved: 12
 
  Connect with Me
  	• LinkedIn: https://www.linkedin.com/in/raj-raushan-899973320/
