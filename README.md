@@ -1,18 +1,18 @@
-365 Days of Code: HackerRank Challenges
+# 365 Days of Code: HackerRank Challenges
 
 About the Project
 
 This repository documents my journey of solving coding problems on HackerRank for 365 consecutive days. The goal is to enhance my problem-solving skills, improve coding proficiency, and maintain consistency in practice.
 
-Goals
+# Goals
 	• Solve at least one problem daily for 365 days.
  	• Upload each solution to GitHub with proper documentation.
   	• Track progress and reflect on learning.
 
- Progress Tracker
+# Progress Tracker
  	• Start Date: 01/ 01/ 2025
-	• Days Completed: 8/365
-  	• Problems Solved: 12
+	• Days Completed: 9/365
+  	• Problems Solved: 13
 
  Connect with Me
  	• LinkedIn: https://www.linkedin.com/in/raj-raushan-899973320/
