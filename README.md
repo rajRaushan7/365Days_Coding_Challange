@@ -16,4 +16,5 @@ This repository documents my journey of solving coding problems on HackerRank fo
 
 # Connect with Me
  	• LinkedIn: https://www.linkedin.com/in/raj-raushan-899973320/
- 	• x : https://x.com/Raj116034776865 
+ 	• x : https://x.com/Raj116034776865
+  	• instagram : • x : https://x.com/Raj116034776865
