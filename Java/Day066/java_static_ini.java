@@ -15,7 +15,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class java_static_ini {
 // Write your code here
     public static Scanner sc = new Scanner(System.in);
     public static int B = sc.nextInt();

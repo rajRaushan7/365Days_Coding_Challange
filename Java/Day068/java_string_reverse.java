@@ -7,7 +7,7 @@ Given a string A, print Yes if it is a palindrome, print No otherwise.
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class java_string_reverse {
 
     public static void main(String[] args) {
         

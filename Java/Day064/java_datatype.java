@@ -15,9 +15,9 @@ n can't be fitted anywhere.
 */
 
 import java.util.*;
-import java.io.*;
+// import java.io.*;
 
-class Solution{
+class java_datatype {
     public static void main(String []argh)
     {
         Scanner sc = new Scanner(System.in);

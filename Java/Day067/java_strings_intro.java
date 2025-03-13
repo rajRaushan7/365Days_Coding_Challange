@@ -18,7 +18,7 @@ For the third line, capitalize the first letter in both A and B and print them o
 
 import java.util.*;
 
-public class java_string_intro {
+public class java_strings_intro {
 
     public static void main(String[] args) {
         

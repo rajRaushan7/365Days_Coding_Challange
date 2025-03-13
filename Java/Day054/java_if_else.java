@@ -14,13 +14,13 @@ Output Format:
 Print Weird if the number is weird, otherwise print Not Weird.
 */
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
+// import java.io.*;
+// import java.math.*;
+// import java.security.*;
+// import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+// import java.util.concurrent.*;
+// import java.util.regex.*;
 
 public class java_if_else {
 
