@@ -2,8 +2,6 @@
 Given an array of numbers, find the maximum possible sum that can be obtained using its elements.
 */
 
-import java.util.*;
-
 public class max_sub_array {
 
     public static void maxSubstringSum(int numbers[]) {

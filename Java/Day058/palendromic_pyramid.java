@@ -26,5 +26,6 @@ public class palendromic_pyramid {
             palendrom(i);
             System.out.println();
         }
+        sc.close();
     }
 }

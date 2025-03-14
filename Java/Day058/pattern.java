@@ -13,5 +13,6 @@ public class pattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

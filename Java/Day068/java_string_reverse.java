@@ -4,7 +4,6 @@ A palindrome is a word, phrase, number, or other sequence of characters which re
 Given a string A, print Yes if it is a palindrome, print No otherwise.
 */
 
-import java.io.*;
 import java.util.*;
 
 public class java_string_reverse {
@@ -23,6 +22,6 @@ public class java_string_reverse {
             System.out.print("No");
         }
         /* Enter your code here. Print output to STDOUT. */
-        
+        sc.close();
     }
 }

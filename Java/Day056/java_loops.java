@@ -12,7 +12,6 @@ For each query, print the corresponding series on a new line. Each series must b
 */
 
 import java.util.*;
-import java.io.*;
 
 public class java_loops {
     public static void main(String []argh){

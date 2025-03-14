@@ -37,6 +37,7 @@ public class java_strings_intro {
             System.out.println("No");
         }
         System.out.print(a + " " + b);
+        sc.close();
     }
 }
 

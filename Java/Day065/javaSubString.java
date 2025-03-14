@@ -2,11 +2,7 @@
 Given a string s, and indices, start and end, print a substring consisting of all characters in the inclusive range from start to end -1.
 */
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class javaSubString {
 
@@ -17,5 +13,6 @@ public class javaSubString {
         int end = in.nextInt();
         String part = S.substring(start, end);
         System.out.print(part);
+        in.close();
     }
 }

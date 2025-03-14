@@ -17,5 +17,7 @@ public class java_stdin_and_stdout{
         System.out.println(a);
         System.out.println(b); // Complete this line
         System.out.print(c); // Complete this line
+
+        scan.close();
     }
 }

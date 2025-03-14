@@ -12,11 +12,7 @@ Output Format
 For each line, print the line number, followed by a single space, and then the line content received as input.
 */
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class java_end_of_file {
 
@@ -29,5 +25,6 @@ public class java_end_of_file {
             System.out.println(n + " " + line);
             n = n + 1;
         }
+        sc.close();
     }
 }

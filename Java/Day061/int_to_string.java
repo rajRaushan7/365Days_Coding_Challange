@@ -6,11 +6,11 @@ If your code successfully converts n into a string s the code will print "Good j
 */
 
 import java.util.*;
-import java.security.*;
+// import java.security.*;
 public class int_to_string {
  public static void main(String[] args) {
 
-  DoNotTerminate.forbidExit();
+//   DoNotTerminate.forbidExit();
 
   try {
    Scanner in = new Scanner(System.in);
@@ -41,15 +41,15 @@ class DoNotTerminate {
   private static final long serialVersionUID = 1;
  }
 
- public static void forbidExit() {
-  final SecurityManager securityManager = new SecurityManager() {
-   @Override
-   public void checkPermission(Permission permission) {
-    if (permission.getName().contains("exitVM")) {
-     throw new ExitTrappedException();
-    }
-   }
-  };
-  System.setSecurityManager(securityManager);
- }
+//  public static void forbidExit() {
+//   final SecurityManager securityManager = new SecurityManager() {
+//    @Override
+//    public void checkPermission(Permission permission) {
+//     if (permission.getName().contains("exitVM")) {
+//      throw new ExitTrappedException();
+//     }
+//    }
+//   };
+//   System.setSecurityManager(securityManager);
+//  }
 }
