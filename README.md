@@ -11,8 +11,8 @@ This repository documents my journey of solving coding problems on HackerRank fo
 
 # Progress Tracker
  	• Start Date: 01/ 01/ 2025
-	• Days Completed: 76/365
-  	• Problems Solved: 88
+	• Days Completed: 77/365
+  	• Problems Solved: 89
 
 # Connect with Me
  	• LinkedIn: https://www.linkedin.com/in/raj-raushan-899973320/
