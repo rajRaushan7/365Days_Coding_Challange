@@ -19,6 +19,6 @@ public class java_output_formating {
                 System.out.printf("%-14s %03d%n", s1, x);
             }
             System.out.println("================================");
-
+            sc.close();
     }
 }
