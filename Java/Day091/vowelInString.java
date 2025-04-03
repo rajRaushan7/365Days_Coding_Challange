@@ -15,6 +15,7 @@ public class vowelInString {
                 vowel = vowel + 1;
             }
         }
+        sc.close();
         System.out.println(vowel);
     }
 }

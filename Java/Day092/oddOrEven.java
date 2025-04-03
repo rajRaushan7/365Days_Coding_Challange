@@ -11,5 +11,6 @@ public class oddOrEven {
         } else if ((n & bitMask) == 1) {
             System.out.println(n + " is an odd number");
         }
+        s.close();
     }
 }

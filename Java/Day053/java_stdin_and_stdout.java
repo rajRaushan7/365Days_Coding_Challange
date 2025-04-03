@@ -5,6 +5,7 @@ In this challenge, you mest read 3 integers from stdin and then print them to st
 Input Format:
 There are 3 lines of input, and each line contains a single integer.
 */
+// package Java.Day054;
 
 import java.util.*;
 public class java_stdin_and_stdout{

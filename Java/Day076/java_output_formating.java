@@ -14,7 +14,7 @@ public class java_output_formating {
             for(int i=0;i<3;i++){
                 String s1=sc.next();
                 int x=sc.nextInt();
-                String s = s1 + x;
+                // String s = s1 + x;
                 //Complete this line
                 System.out.printf("%-14s %03d%n", s1, x);
             }

@@ -1,6 +1,6 @@
 // Sort an array ([5, 4, 1, 3, 2]) using bubble sort method
 
-import java.util.*;
+// import java.util.*;
 
 public class array_sort {
     public static void bubbleSort(int nums[]) {
