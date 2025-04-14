@@ -1,3 +1,4 @@
+package Java.Day096;
 import java.util.*;
 
 public class printArr {
