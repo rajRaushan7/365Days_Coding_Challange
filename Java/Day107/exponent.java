@@ -2,8 +2,8 @@ package Java.Day107;
 
 public class exponent {
     public static int pow(int n, int p){
-        if (p == 1){
-            return n;
+        if (p == 0){
+            return 1;
         }
         return n * pow(n, p-1);
     }
