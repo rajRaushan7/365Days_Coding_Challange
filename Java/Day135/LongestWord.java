@@ -1,3 +1,5 @@
+// Write a Java program to find the longest word in a given sentence. Ignore punctuation and return the first word if multiple words have the same maximum length.
+
 package Java.Day135;
 
 public class LongestWord {
