@@ -29,14 +29,24 @@ class DoubleLL {
         newNode.next = head;
         head.prev = newNode;
         head = newNode;
-        size += 1;
+        size++;
 
     }
 
     // remove
     public void deleteFirst(){
+        if (head == null) {
+            System.out.println("DLL is empty");
+            return;
+        }
+        if (size == 1) {
+            head = tail = null;
+            size--;
+            return;
+        }
         head = head.next;
         head.prev = null;
+        size--;
     }
 
     // print
