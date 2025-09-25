@@ -11,7 +11,7 @@ class Triangle:
         return "Invalid"
     
     def Side_Classification(self): 
-        if (self.Is_valid() == "Valid"):   # FIXED here
+        if (self.Is_valid() == "Valid"):
             if self.a == self.b == self.c:
                 return "Equilateral"
             elif self.a == self.b or self.a == self.c or self.b == self.c:
@@ -21,7 +21,7 @@ class Triangle:
         return "Invalid"
             
     def Angle_Classification(self):
-        if (self.Is_valid() == "Valid"):   # FIXED here
+        if (self.Is_valid() == "Valid"): 
             sides = sorted([self.a, self.b, self.c])
             x, y, z = sides
             if x**2 + y**2 > z**2:
@@ -33,7 +33,7 @@ class Triangle:
         return "Invalid"
                 
     def Area(self):
-        if (self.Is_valid() == "Valid"):   # FIXED here
+        if (self.Is_valid() == "Valid"):  
             s = (self.a + self.b + self.c) / 2
             a = s*(s-self.a)*(s-self.b)*(s-self.c)
             area = a**0.5
